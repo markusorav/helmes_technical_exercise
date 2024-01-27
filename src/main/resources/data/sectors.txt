@@ -1,0 +1,79 @@
+1 level-1 Manufacturing
+19 level-2 Construction materials
+18 level-2 Electronics and Optics
+6 level-2 Food and Beverage
+342 level-3 Bakery & confectionery products
+43 level-3 Beverages
+42 level-3 Fish & fish products
+40 level-3 Meat & meat products
+39 level-3 Milk & dairy products
+378 level-3 Sweets & snack food
+437 level-3 Other
+13 level-2 Furniture
+389 level-3 Bathroom/sauna
+385 level-3 Bedroom
+390 level-3 Children’s room
+98 level-3 Kitchen
+101 level-3 Living room
+392 level-3 Office
+341 level-3 Outdoor
+99 level-3 Project furniture
+394 level-3 Other (Furniture)
+12 level-2 Machinery
+94 level-3 Machinery components
+91 level-3 Machinery equipment/tools
+224 level-3 Manufacture of machinery
+97 level-3 Maritime
+271 level-4 Aluminium and steel workboats
+269 level-4 Boat/Yacht building
+230 level-4 Ship repair and conversion
+93 level-3 Metal structures
+227 level-3 Repair and maintenance service
+508 level-3 Other
+11 level-2 Metalworking
+67 level-3 Construction of metal structures
+263 level-3 Houses and buildings
+267 level-3 Metal products
+542 level-3 Metal works
+75 level-4 CNC-machining
+62 level-4 Forgings, Fasteners
+69 level-4 Gas, Plasma, Laser cutting
+66 level-4 MIG, TIG, Aluminum welding
+9 level-2 Plastic and Rubber
+54 level-3 Packaging
+556 level-3 Plastic goods
+559 level-3 Plastic processing technology
+55 level-4 Blowing
+57 level-4 Moulding
+53 level-4 Plastics welding and processing
+560 level-3 Plastic profiles
+5 level-2 Printing
+148 level-3 Advertising
+150 level-3 Book/Periodicals printing
+145 level-3 Labelling and packaging printing
+7 level-2 Textile and Clothing
+44 level-3 Clothing
+45 level-3 Textile
+8 level-2 Wood
+51 level-3 Wooden building materials
+47 level-3 Wooden houses
+337 level-3 Other (Wood)
+2 level-1 Service
+25 level-2 Business services
+35 level-2 Engineering
+28 level-2 Information Technology and Telecommunications
+581 level-3 Data processing, Web portals, E-marketing
+576 level-3 Programming, Consultancy
+121 level-3 Software, Hardware
+122 level-3 Telecommunications
+22 level-2 Tourism
+141 level-2 Translation services
+21 level-2 Transport and Logistics
+111 level-3 Air
+114 level-3 Rail
+112 level-3 Road
+113 level-3 Water
+3 level-1 Other
+37 level-2 Creative industries
+29 level-2 Energy technology
+33 level-2 Environment
